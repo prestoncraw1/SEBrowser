@@ -5,4 +5,5 @@ The list-based SE Browser is designed to complement the Open PQ Dashboard which 
 Items shown in the SE Browser preview panel include: fault location maps, waveform visualizations, among other event summary data.
 
 ![PQDashboard Screen](https://gridprotectionalliance.org/images/products/SEBrowser.jpg)
-*SE Browser Version 1.0*
+*SE Browser Version 1.0*.
+
