@@ -6,3 +6,4 @@ Items shown in the SE Browser preview panel include: fault location maps, wavefo
 
 ![PQDashboard Screen](https://gridprotectionalliance.org/images/products/SEBrowser.jpg)
 *SE Browser Version 1.0*.
+
